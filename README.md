@@ -1,6 +1,6 @@
 # alarm_android
 
-A new Flutter project.
+This project works like an android alarm and open the application on a specific time.
 
 ## Getting Started
 
