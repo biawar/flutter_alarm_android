@@ -44,5 +44,5 @@ Future<void> main() async {
       const Duration(seconds: 5), periodicID, printPeriodic,
       wakeup: true);
   await AndroidAlarmManager.oneShot(
-      const Duration(seconds: 5), oneShotID, printOneShot);
+      const Duration(seconds: 5), oneShotID, printOneShot);   
 }
